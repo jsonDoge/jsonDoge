@@ -8,3 +8,7 @@ I'm a software developer with mostly ecommerce/Ξ crypto project experience.
 - ⚡ Fun fact: after finding my first confirmed smart contract vulnerability... I now crave MOAR!
   
 <p align="center"><img src="https://github.com/user-attachments/assets/b93a77e9-f35d-4620-a5a3-f482adab97fb" width="400" height="400"></p>
+
+Board of done:
+- Ethernaut
+- High severty bug confirmed
