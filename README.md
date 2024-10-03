@@ -11,5 +11,8 @@ I'm a software developer with mostly ecommerce/Ξ crypto project experience.
 
 Board of done:
 - Ethernaut
-- High severty bug confirmed
 - Participated in Secureum RACE challenge - finished TOP 10
+
+Bugs with severity confirmed in public bounties:
+- 1x High
+- 3x Informational/Gas
