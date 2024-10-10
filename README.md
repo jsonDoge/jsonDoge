@@ -15,5 +15,5 @@ Board of done:
 
 Bugs with severity confirmed in public bounties:
 - 1x High
-- 1x Low
+- 2x Low
 - 4x Informational/Gas
