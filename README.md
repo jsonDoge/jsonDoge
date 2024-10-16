@@ -12,7 +12,7 @@ I'm a software developer with mostly ecommerce/Ξ crypto project experience.
 Board of done:
 - Ethernaut
 - Participated in Secureum RACE challenge - finished TOP 10
-- Looked into first Move smart contract
+- Reviewed first Move smart contract
 
 Bugs with severity confirmed in public bounties:
 - 1x High
