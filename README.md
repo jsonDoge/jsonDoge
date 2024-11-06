@@ -14,7 +14,8 @@ Board of done:
 - Participated in Secureum RACE challenge - finished TOP 10
 - Reviewed first Move smart contract
 
-Bugs with severity confirmed in public bounties:
+Bugs with severity confirmed in public bounties/competitions:
 - 1x High
+- 1x Medium
 - 2x Low
-- 4x Informational/Gas
+- 5x Informational/Gas
