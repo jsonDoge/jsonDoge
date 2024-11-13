@@ -13,9 +13,10 @@ Board of done:
 - Ethernaut
 - Participated in Secureum RACE challenge - finished TOP 10
 - Reviewed first Move smart contract
+- 1st place in a CodeHawks (Cyfrin) public competitive audit
 
 Bugs with severity confirmed in public bounties/competitions:
 - 1x High
 - 1x Medium
-- 2x Low
+- 3x Low
 - 5x Informational/Gas
