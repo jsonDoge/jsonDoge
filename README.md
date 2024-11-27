@@ -16,7 +16,7 @@ Board of done:
 - 1st place in a CodeHawks (Cyfrin) public competitive audit
 
 Bugs with severity confirmed in public bounties/competitions:
-- 1x High
-- 2x Medium
+- 3x High
+- 4x Medium
 - 3x Low
 - 5x Informational/Gas
